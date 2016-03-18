@@ -1,0 +1,86 @@
+.tabs{
+    text-align: center;
+}
+#field .flag{
+    background: url("images/flag.png") no-repeat center;
+}
+.tabs div{
+    border-radius: 10px 10px 0 0;
+    display: inline-block;
+    background-color: #eeeeee;
+    padding: 10px;
+    color: #000000;
+    cursor: pointer;
+}
+.tabs .active{
+    cursor: auto;
+    background: url("images/mirrored_squares.png");
+}
+.container{
+    position: relative;
+    border-radius: 10px;
+    background: url("images/mirrored_squares.png");
+    padding: 50px 100px;
+    margin: 0 auto;
+}
+.container .btn{
+    cursor: pointer;
+    padding: 5px;
+    background: #666;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius:0 10px 0 5px;
+}
+.btn:hover{
+    background: #999;
+}
+#field{
+    margin: 0 auto;
+    border: 1px solid #000033;
+    background-color: #eeeeee;
+    font-family: ‘Arial Black’, Gadget, sans-serif;
+}
+#field div{
+    display:inline-block;
+    vertical-align:top;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    box-sizing: border-box;
+    border: 1px solid #000033;
+    border-collapse: collapse;
+    font-weight: 800;
+    font-size: 18px;
+}
+.class_1{
+    color: #3366CC;
+}
+.class_2{
+    color: #006600;
+}
+.class_3{
+    color: #CC0000;
+}
+.class_4{
+    color: #6600CC;
+}
+.class_5{
+    color: #FF6633;
+}
+.class_6{
+    color: #660033;
+}
+.class_7{
+    color: #990066;
+}
+.class_-1{
+    background: url("images/min.png") no-repeat center;
+}
+#field .cover{
+    background: url("images/blue.png")no-repeat center;
+    border-color: #000033;
+
+}
