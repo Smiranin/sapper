@@ -1,4 +1,4 @@
 ## Sapper game in the browser.
 
- - Visit smiranin.github.io/sapper to play.  
+ - Visit [smiranin.github.io/sapper](https://smiranin.github.io/sapper/) to play.  
  - You can find the game code in the gh-pages branch
